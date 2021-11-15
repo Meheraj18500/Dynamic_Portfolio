@@ -1,0 +1,10 @@
+Database Name: php_crud
+Table Name: contact, post, user.
+
+
+
+Contact field: id, name, email, subject, message.
+
+Post field: id, title, description, image, day, month.
+
+User table field: id, name, email, phone, address.
